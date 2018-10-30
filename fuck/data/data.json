@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Joanna",
+    "profile_img": "data/AdobeStock_37432740.png",
+    "distance": "40 miles",
+    // can be random, but needs to be sticky for the user
+    "verified": true,
+    "premium": false
+  },
+  {
+    "name":"Samantha",
+    "profile_img":"data/AdobeStock_49840412.png",
+    "distance":"15 miles", // can be random, but needs to be sticky for the user
+    "verified":true,
+    "premium":true
+  },
+  {
+    "name": "Rachael",
+    "profile_img": "data/AdobeStock_77449354.png",
+    "distance": "36 miles",
+    // can be random, but needs to be sticky for the user
+    "verified": false,
+    "premium": false
+  },
+  {
+    "name": "Amber Lynn",
+    "profile_img": "data/AdobeStock_98612124.png",
+    "distance": "23 miles",
+    // can be random, but needs to be sticky for the user
+    "verified": true,
+    "premium": false
+  },
+  {
+    "name": "Amber Lynn",
+    "profile_img": "data/AdobeStock_164499569.png",
+    "distance": "23 miles",
+    // can be random, but needs to be sticky for the user
+    "verified": true,
+    "premium": false
+  },
+  {
+    "name": "Amber Lynn",
+    "profile_img": "data/AdobeStock_165238262.png",
+    "distance": "23 miles",
+    // can be random, but needs to be sticky for the user
+    "verified": true,
+    "premium": false
+  },
+  {
+    "name": "Amber Lynn",
+    "profile_img": "data/AdobeStock_174287278.png",
+    "distance": "23 miles",
+    // can be random, but needs to be sticky for the user
+    "verified": true,
+    "premium": false
+  },
+  {
+    "name": "Amber Lynn",
+    "profile_img": "data/AdobeStock_193481865.png",
+    "distance": "23 miles",
+    // can be random, but needs to be sticky for the user
+    "verified": true,
+    "premium": false
+  },
+  {
+    "name": "Amber Lynn",
+    "profile_img": "data/insta4.png",
+    "distance": "23 miles",
+    // can be random, but needs to be sticky for the user
+    "verified": true,
+    "premium": false
+  }
+]
