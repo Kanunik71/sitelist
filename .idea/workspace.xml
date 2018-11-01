@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a869b57-4988-4423-9e58-77588ec7424e" name="Default" comment="" />
+    <list default="true" id="1a869b57-4988-4423-9e58-77588ec7424e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sites.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sites.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fuck/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fuck/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,34 +30,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fuck/index.html">
+        <entry file="file://$PROJECT_DIR$/meet/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+            <state relative-caret-position="356">
+              <caret line="186" column="106" selection-start-line="186" selection-start-column="106" selection-end-line="186" selection-end-column="106" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/insta/index.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/meet/style/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
-              <caret line="636" column="28" selection-start-line="636" selection-start-column="28" selection-end-line="636" selection-end-column="28" />
+            <state relative-caret-position="509">
+              <caret line="118" column="101" selection-start-line="118" selection-start-column="101" selection-end-line="118" selection-end-column="101" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fuck/js/custom.js">
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meet/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="305" column="28" lean-forward="true" selection-start-line="305" selection-start-column="28" selection-end-line="305" selection-end-column="28" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="442">
+              <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -62,37 +63,43 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>page-register__step</find>
-      <find>page-register__</find>
-      <find>.page-register__input-error</find>
-      <find>formRegister2</find>
-      <find>form-verif-country</find>
-      <find>page-register__text2</find>
-      <find>page-register__input-icon</find>
-      <find>page-register__input</find>
-      <find>page-register__text</find>
-      <find>form</find>
-      <find>&lt;form</find>
-      <find>disabled</find>
-      <find>page-register__text5</find>
-      <find>Unit</find>
-      <find>limit</find>
-      <find>need-pre</find>
-      <find>popup-limit-reached</find>
-      <find>showPopupReachede</find>
-      <find>formData</find>
-      <find>icon-heart</find>
-      <find>showPopupMatch</find>
-      <find>form-verif-month</find>
-      <find>select</find>
-      <find>pages--background-home</find>
-      <find>page-why-verify__block</find>
-      <find>form-field__select-value</find>
-      <find>form-verif-lastname</find>
-      <find>swip</find>
       <find>aven</find>
+      <find>pageHome</find>
+      <find>bottom-navigate</find>
+      <find>bottom-n</find>
+      <find>page-list</find>
+      <find>pageList</find>
+      <find>pageDetail</find>
+      <find>header-under--find</find>
+      <find>page-detail</find>
+      <find>heart</find>
       <find>header__</find>
+      <find>svg</find>
+      <find>page-find__btns</find>
+      <find>page-find__wrapper</find>
+      <find>grad</find>
+      <find>page--havebar</find>
+      <find>match</find>
+      <find>BottomNavigation</find>
+      <find>formVerify</find>
+      <find>popup-match</find>
+      <find>page-button--effect-boris</find>
+      <find>.page-find__white</find>
+      <find>.page-find__top</find>
+      <find>icon-close</find>
+      <find>.page-find__images-el</find>
+      <find>popup-need-premium__block</find>
+      <find>.page-match</find>
+      <find>page-match__text</find>
+      <find>.page-premium</find>
+      <find>page-match__love</find>
     </findStrings>
+    <replaceStrings>
+      <replace>page-match</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -102,19 +109,23 @@
         <option value="$PROJECT_DIR$/insta/js/custom.js" />
         <option value="$PROJECT_DIR$/insta/style/style.css" />
         <option value="$PROJECT_DIR$/fuck/style/style.css" />
-        <option value="$PROJECT_DIR$/fuck/index.html" />
         <option value="$PROJECT_DIR$/insta/index.html" />
         <option value="$PROJECT_DIR$/fuck/js/custom.js" />
+        <option value="$PROJECT_DIR$/fuck/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/meet/js/custom.js" />
+        <option value="$PROJECT_DIR$/meet/index.html" />
+        <option value="$PROJECT_DIR$/meet/style/style.css" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
-    <service-enabled>false</service-enabled>
+    <service-enabled>true</service-enabled>
     <exe-path />
-    <annotation-enable>false</annotation-enable>
-    <other-services-enabled>false</other-services-enabled>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -135,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,42 +162,42 @@
             <path>
               <item name="sites" type="b2602c69:ProjectViewProjectNode" />
               <item name="sites" type="462c0819:PsiDirectoryNode" />
-              <item name="fuck" type="462c0819:PsiDirectoryNode" />
+              <item name="meet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sites" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sites" type="462c0819:PsiDirectoryNode" />
+              <item name="meet" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sites" type="b2602c69:ProjectViewProjectNode" />
               <item name="sites" type="462c0819:PsiDirectoryNode" />
-              <item name="insta" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sites" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sites" type="462c0819:PsiDirectoryNode" />
-              <item name="insta" type="462c0819:PsiDirectoryNode" />
+              <item name="meet" type="462c0819:PsiDirectoryNode" />
               <item name="style" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="D:/programm/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\git\sites\fuck\js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\git\sites\fuck\style" />
       <recent name="D:\git\sites\fuck\js" />
       <recent name="D:\git\sites\insta\js" />
       <recent name="D:\git\sites\insta\style" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\sites\fuck\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -215,11 +227,15 @@
       <workItem from="1540279156025" duration="730000" />
       <workItem from="1540367670759" duration="27877000" />
       <workItem from="1540455319737" duration="2638000" />
+      <workItem from="1540894459242" duration="2173000" />
+      <workItem from="1540973211432" duration="605000" />
+      <workItem from="1540988470200" duration="7445000" />
+      <workItem from="1541062372975" duration="8610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31792000" />
+    <option name="totallyTimeSpent" value="50625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -241,7 +257,7 @@
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -262,13 +278,89 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/meet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3417">
+          <caret line="201" column="40" selection-start-line="201" selection-start-column="24" selection-end-line="201" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4896">
+          <caret line="288" column="50" lean-forward="true" selection-start-line="288" selection-start-column="50" selection-end-line="288" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3587">
+          <caret line="211" column="61" lean-forward="true" selection-start-line="211" selection-start-column="61" selection-end-line="211" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fuck/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insta/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10812">
+          <caret line="636" column="28" selection-start-line="636" selection-start-column="28" selection-end-line="636" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fuck/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5185">
+          <caret line="305" column="28" lean-forward="true" selection-start-line="305" selection-start-column="28" selection-end-line="305" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fuck/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2941">
           <caret line="173" column="34" selection-start-line="173" selection-start-column="34" selection-end-line="173" selection-end-column="34" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -335,23 +427,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fuck/index.html">
+    <entry file="file://$PROJECT_DIR$/fuck/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+        <state relative-caret-position="543">
+          <caret line="622" column="4" selection-start-line="622" selection-start-column="4" selection-end-line="631" selection-end-column="7" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fuck/js/custom.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="305" column="28" lean-forward="true" selection-start-line="305" selection-start-column="28" selection-end-line="305" selection-end-column="28" />
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fuck/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="94" column="3" selection-start-line="94" selection-start-column="3" selection-end-line="96" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="186" column="106" selection-start-line="186" selection-start-column="106" selection-end-line="186" selection-end-column="106" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="118" column="101" selection-start-line="118" selection-start-column="101" selection-end-line="118" selection-end-column="101" />
         </state>
       </provider>
     </entry>
